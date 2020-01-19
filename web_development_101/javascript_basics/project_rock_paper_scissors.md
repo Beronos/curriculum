@@ -1193,4 +1193,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [StraytJacquet's Solution](https://github.com/Straytjacquet/Rock_Paper_Scissors) - [View in Browser](https://straytjacquet.github.io/Rock_Paper_Scissors/) 
 - [gwen's Solution](https://github.com/gwnm/rock_paper_scissors/blob/master/index.html) - [View in Browser](https://gwnm.github.io/rock_paper_scissors/)
 - [BlessedOneKobo's Solution](https://github.com/BlessedOneKobo/rock-paper-scissors) - [View in Browser](https://blessedonekobo.github.io/rock-paper-scissors/)
+- My solution : https://github.com/Beronos/rock-paper-scissors  - [View in Browser]:https://github.com/Beronos/rock-paper-scissors
 </details>
